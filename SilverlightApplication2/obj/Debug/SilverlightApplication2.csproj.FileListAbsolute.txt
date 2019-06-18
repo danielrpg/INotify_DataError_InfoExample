@@ -1,0 +1,12 @@
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\Bin\Debug\SilverlightApplication2.dll
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\Bin\Debug\SilverlightApplication2.pdb
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\Bin\Debug\AppManifest.xaml
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\Bin\Debug\SilverlightApplication2.xap
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\Bin\Debug\SilverlightApplication2TestPage.html
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\SilverlightApplication2.csprojResolveAssemblyReference.cache
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\App.g.cs
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\MainPage.g.cs
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\SilverlightApplication2.g.resources
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\SilverlightApplication2.dll
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\SilverlightApplication2.pdb
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2\obj\Debug\XapCacheFile.xml

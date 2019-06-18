@@ -1,0 +1,6 @@
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2.Web\bin\SilverlightApplication2.Web.dll.config
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2.Web\bin\SilverlightApplication2.Web.dll
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2.Web\bin\SilverlightApplication2.Web.pdb
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2.Web\obj\Debug\SilverlightApplication2.Web.csprojResolveAssemblyReference.cache
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2.Web\obj\Debug\SilverlightApplication2.Web.dll
+c:\users\dany\documents\visual studio 2015\Projects\SilverlightApplication2\SilverlightApplication2.Web\obj\Debug\SilverlightApplication2.Web.pdb
